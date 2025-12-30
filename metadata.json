@@ -1,0 +1,7 @@
+{
+  "name": "FitRun",
+  "description": "A Cyber-Sport Neo-Glassmorphism fitness tracking application with AI coaching capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
